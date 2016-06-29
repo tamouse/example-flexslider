@@ -1,0 +1,41 @@
+{
+  "name": "example-flexslider",
+  "version": "0.0.1",
+  "description": "Example working with FlexSlider",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamouse/example-flexslider.git"
+  },
+  "keywords": [
+    "example",
+    "toy",
+    "app",
+    "flexslider"
+  ],
+  "author": "Tamara Temple <tamouse@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamouse/example-flexslider/issues"
+  },
+  "homepage": "https://github.com/tamouse/example-flexslider#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "ejs": "^2.4.2",
+    "ejs-html-loader": "^2.0.2",
+    "flexslider": "^2.6.0",
+    "jquery": "^3.0.0",
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "flexslider": "^2.6.0",
+    "jquery": "^3.0.0"
+  }
+}
